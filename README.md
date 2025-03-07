@@ -7,8 +7,8 @@ Product Price Calculator — это веб-приложение, разрабо�
 
 ### 1. Клонирование репозитория
 ```sh
-git clone https://github.com/your-repo/product-price-calculator.git
-cd product-price-calculator
+git clone https://github.com/Jatayeti/test-ppc.git
+cd test-ppc
 ```
 
 ### 2. Установка зависимостей
